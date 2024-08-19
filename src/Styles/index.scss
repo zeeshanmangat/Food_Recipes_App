@@ -260,11 +260,17 @@ img {
     .container {
         padding-inline: 18vw;
     }
+      .btnn input{
+        width: 550px;
+    }
 }
 
 @media screen and (max-width: 1050px) {
     .container {
         padding-inline: 12vw;
+    }
+      .btnn input{
+        width: 500px;
     }
 }
 
@@ -320,6 +326,9 @@ img {
             grid-column: span 3;
         }
     }
+      .btnn input{
+        width: 400px;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -329,5 +338,8 @@ img {
 
     .section .title {
         margin-top: 1.5em;
+    }
+      .btnn input{
+        width: 300px;
     }
 }
