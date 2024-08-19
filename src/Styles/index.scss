@@ -244,7 +244,7 @@ img {
     color: var(--text-color);
 }
 
-@import "partial/rescipesSection";
+@import "Partial/rescipesSection.scss";
 
 .main {
     padding-block: 3vw;
@@ -256,17 +256,6 @@ img {
 }
 
 @import "Partial/animation.scss";
-// @media screen and (max-width:1550px) {
-//     .container{
-//        padding-inline: 5vw;
-//        background-color:var(--background-light);
-//        color: black;
-
-//     }
-//     .navbar{
-//         background-color: var(--background-color);
-//     }
-// }
 @media screen and (max-width: 1280px) {
     .container {
         padding-inline: 18vw;
