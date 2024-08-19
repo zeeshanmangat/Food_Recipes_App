@@ -8,19 +8,19 @@ const Recipes = () => {
     },
     {
       title: "Sugi",
-      image: "img/gallery/img_11.jpg",
+      image: "img/gallery/img_2.jpg",
     },
     {
       title: "Chiken pan p",
-      image: "img/gallery/img_12.jpg",
+      image: "img/gallery/img_3.jpg",
     },
     {
       title: "Fish Supreme",
-      image: "img/gallery/img_13.jpg",
+      image: "img/gallery/img_4.jpg",
     },
     {
       title: "Wight Rice",
-      image: "img/gallery/img_14.jpg",
+      image: "img/gallery/img_5.jpg",
     },
     {
       title: "Sultani Kabab",
