@@ -150,7 +150,7 @@ img {
     color: aqua;
 }
 
-@import "Partial/navbar";
+@import "Partial/navbar.scss";
 
 .section {
     display: flex;
@@ -183,11 +183,11 @@ img {
 }
 
 @import "Partial/hero-section.scss";
-@import "partial/improvesection";
+@import "partial/improvesection.scss";
 @import "partial/QuoteSection.scss";
 @import "partial/ChiefSection.scss";
-@import "partial/footer";
-@import "partial/preivousSerches";
+@import "partial/footer.scss";
+@import "partial/preivousSerches.scss";
 
 .options-container {
     box-shadow: 0 5px 10px var(--shadow-color);
@@ -255,7 +255,7 @@ img {
     padding-inline: 25vw;
 }
 
-@import "Partial/animation";
+@import "Partial/animation.scss";
 // @media screen and (max-width:1550px) {
 //     .container{
 //        padding-inline: 5vw;
