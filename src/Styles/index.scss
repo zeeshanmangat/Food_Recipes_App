@@ -183,11 +183,11 @@ img {
 }
 
 @import "Partial/hero-section.scss";
-@import "partial/improveSection.scss";
-@import "partial/QuoteSection.scss";
-@import "partial/ChiefSection.scss";
-@import "partial/footer.scss";
-@import "partial/preivousSerches.scss";
+@import "Partial/skills.scss";
+@import "Partial/QuoteSection.scss";
+@import "Partial/ChiefSection.scss";
+@import "Partial/footer.scss";
+@import "Partial/preivousSerches.scss";
 
 .options-container {
     box-shadow: 0 5px 10px var(--shadow-color);
